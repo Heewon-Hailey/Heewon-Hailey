@@ -9,7 +9,7 @@ Hope you find it helpful!
 :fire::fire: **Interest** :fire::fire:
 
 - `Machine learning` 
-- `Computer Vision` :star:
+- `Computer Vision` 
 - `Recommendation Systems` 
 - `Natural Language Processing` 
 - `AI Planning` 
